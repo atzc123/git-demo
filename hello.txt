@@ -12,5 +12,8 @@ hello atzc! hello git!
 hello atzc! hello git!
 hello atzc! hello git!
 hello atzc! hello git!
+<<<<<<< HEAD
 hello atzc! hello git! master test
-hello atzc! hello git!
+=======
+hello atzc! hello git! hot-fix test
+>>>>>>> hot-fix
